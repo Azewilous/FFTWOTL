@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pixelfantasy",
+  "name": "PixelFantasy",
+  "description": "Final Fantasy Tactics In Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Azewilous"],
+  "credits": "Minecraft Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
